@@ -1,2 +1,3 @@
 # PicoMakerRobot
-Code for the Wildbot robot camp
+
+Code for the Wildbot robot camp.
